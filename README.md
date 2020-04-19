@@ -1,4 +1,5 @@
-# TraalhoFinalPoo
+# Trabalho final da matéria Poo
+
 Equipe:
   Álvaro Ernani,
   Geovani Pereira,
